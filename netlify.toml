@@ -1,27 +1,26 @@
+# Thiết lập môi trường build
 [build.environment]
   NETLIFY_USE_YARN = "true"
   YARN_VERSION = "1.22.17"
+  NODE_VERSION = "20"
 
+# Lệnh build chính và thư mục output
 [build]
   command = "yarn build"
   publish = "dist"
 
+# Cấu hình khi deploy preview
 [context.deploy-preview]
   command = "yarn build:preview"
 
+# Thiết lập khi chạy dev local (Netlify Dev)
 [dev]
   framework = "hugo"
   targetPort = 3000
 
+# Cấu hình plugin Cypress (nếu bạn dùng test tự động)
 [[plugins]]
   package = "netlify-plugin-cypress"
 
   [plugins.inputs]
     record = true
-
-[build]
-  command = "npm run build"
-  publish = "public"
-
-[build.environment]
-  NODE_VERSION = "20"
