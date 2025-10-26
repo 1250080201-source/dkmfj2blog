@@ -18,3 +18,10 @@
 
   [plugins.inputs]
     record = true
+
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "20"
