@@ -19,8 +19,8 @@
   targetPort = 3000
 
 # Cấu hình plugin Cypress (nếu bạn dùng test tự động)
-[[plugins]]
-  package = "netlify-plugin-cypress"
+# [[plugins]]
+#   package = "netlify-plugin-cypress"
 
-  [plugins.inputs]
-    record = true
+#   [plugins.inputs]
+#     record = true
