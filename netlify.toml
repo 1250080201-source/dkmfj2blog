@@ -1,20 +1,26 @@
-# Thiết lập môi trường build
+# ================================
+# ⚙️ CẤU HÌNH BUILD CHO NETLIFY
+# ================================
+
 [build.environment]
   NETLIFY_USE_YARN = "true"
   YARN_VERSION = "1.22.17"
   NODE_VERSION = "20"
 
-# Lệnh build chính và thư mục output
 [build]
   base = "site"
-  command = "npm install rimraf && yarn build"
+  command = "yarn install && yarn run build"
   publish = "dist"
 
-# Cấu hình khi deploy preview
+# ================================
+# 🔧 Thiết lập khi chạy preview
+# ================================
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "yarn install && yarn run build"
 
-# Thiết lập khi chạy dev local (Netlify Dev)
+# ================================
+# 🧑‍💻 Cấu hình dev local
+# ================================
 [dev]
   framework = "hugo"
-  targetPort = 3000
+  targetPort = 1313
