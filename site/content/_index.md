@@ -1,6 +1,13 @@
 ---
 title: "Cà phê tuyệt hảo với tâm hồn nhân ái"
 subtitle: "Ủng hộ nông nghiệp bền vững trong từng tách cà phê"
+description: "Kaldi mang đến cà phê nguyên chất, rang xay thủ công, ủng hộ nông nghiệp bền vững và kết nối cộng đồng yêu cà phê Việt Nam."
+keywords: 
+  - "cà phê Kaldi"
+  - "cà phê nguyên chất"
+  - "cà phê rang xay thủ công"
+  - "cà phê bền vững"
+  - "cà phê sạch"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: "Vì sao chọn Kaldi?"
