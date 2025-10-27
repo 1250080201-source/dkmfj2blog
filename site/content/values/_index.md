@@ -1,45 +1,48 @@
 ---
-title: "Values"
+title: "Giá trị của chúng tôi"
 image: /img/about-jumbotron.jpg
+keywords: ["cà phê",
+"cà phê Kaldi",
+"cà phê sạch",
+"canh tác bền vững",
+"nguồn gốc đơn",
+"cà phê Việt Nam",
+"Kaldi Coffee",
+"cà phê chất lượng cao",
+"cà phê rang xay",
+"văn hóa cà phê"]
+
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Cà phê trồng dưới bóng râm"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Cà phê là một loại cây nhỏ mọc tự nhiên dưới tán rừng, và
+      truyền thống được trồng dưới các cây lớn hơn để tạo bóng mát.
+      Mô hình canh tác này giúp bảo tồn hệ sinh thái và tạo môi
+      trường sống cho nhiều loài sinh vật.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+
+  - heading: "Nguồn gốc đơn"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Cà phê nguồn gốc đơn được thu hoạch từ một khu vực hoặc nông
+      trại cụ thể, giúp giữ nguyên hương vị đặc trưng của vùng đất đó.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+
+  - heading: "Canh tác bền vững"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Chúng tôi ưu tiên các phương pháp canh tác thân thiện với môi
+      trường, đảm bảo phát triển lâu dài cho cả thiên nhiên và cộng
+      đồng địa phương.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+
+  - heading: "Nguồn cung trực tiếp"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Chúng tôi hợp tác trực tiếp với nông dân để đảm bảo giá trị
+      công bằng và chất lượng vượt trội cho từng hạt cà phê.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+
+  - heading: "Tái đầu tư lợi nhuận"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      20% lợi nhuận của chúng tôi được tái đầu tư vào cộng đồng, hỗ
+      trợ phát triển nông nghiệp, giáo dục và kinh tế địa phương.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
