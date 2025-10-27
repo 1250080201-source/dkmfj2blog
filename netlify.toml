@@ -8,6 +8,7 @@
 [build]
   command = "yarn build"
   publish = "dist"
+  base = "site" # 👈 thêm dòng này để Netlify build trong thư mục 'site'
 
 # Cấu hình khi deploy preview
 [context.deploy-preview]
@@ -17,10 +18,3 @@
 [dev]
   framework = "hugo"
   targetPort = 3000
-
-# Cấu hình plugin Cypress (nếu bạn dùng test tự động)
-# [[plugins]]
-#   package = "netlify-plugin-cypress"
-
-#   [plugins.inputs]
-#     record = true
