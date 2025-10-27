@@ -1,25 +1,41 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
+title: "Hướng dẫn cho người mới bắt đầu pha cà phê bằng Chemex"
+date: 2025-10-09T15:04:10.000Z
+description: "Pha cà phê bằng Chemex có thể trông phức tạp và tốn thời gian, nhưng khi bạn quen với quy trình này, nó trở thành một nghi thức thư giãn và đáng giá trong mỗi lần thưởng thức."
 image: blog-chemex.jpg
+keywords:
+  - "Chemex"
+  - "pha cà phê Chemex"
+  - "cách pha cà phê thủ công"
+  - "hướng dẫn pha cà phê"
+  - "cà phê sạch"
+  - "dụng cụ pha cà phê"
+  - "cà phê Kaldi"
+  - "văn hóa cà phê"
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+Tuần này, chúng ta sẽ **tìm hiểu** tất cả các bước cần thiết để pha được một ly cà phê tuyệt vời bằng **Chemex** ngay tại nhà.  
+Chemex là một dụng cụ pha cà phê thủ công theo phương pháp *pour-over*, được sáng chế bởi **Peter Schlumbohm** vào năm 1941, và đến nay vẫn được sản xuất bởi **Chemex Corporation** tại **Chicopee, Massachusetts**.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+Năm 1958, các nhà thiết kế tại [Viện Công nghệ Illinois](https://www.spacefarm.digital) đã nhận định rằng Chemex là *“một trong những sản phẩm được thiết kế tốt nhất của thời hiện đại”*, và hiện đang được trưng bày trong bộ sưu tập của **Bảo tàng Nghệ thuật Hiện đại (MoMA)** tại thành phố New York.
 
-## The little secrets of Chemex brewing
+---
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+## Những bí quyết nhỏ khi pha cà phê bằng Chemex
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Chemex có hình dáng giống chiếc đồng hồ cát với cổ hình phễu. Dụng cụ này sử dụng **giấy lọc chuyên dụng** dày hơn so với giấy lọc thông thường, giúp loại bỏ phần lớn dầu cà phê, tạo ra hương vị tinh khiết và khác biệt.  
+Giấy lọc dày hơn cũng giúp giảm lượng **cafestol** – một hợp chất có trong dầu cà phê có thể ảnh hưởng đến cholesterol trong cơ thể.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Dưới đây là **4 mẹo quan trọng** mà người mới thường hay quên:
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+1. Luôn sử dụng **giấy lọc Chemex chuyên dụng**.  
+2. Dùng **cân điện tử** để định lượng chính xác, đừng ước chừng.  
+3. **Đừng bỏ qua bước làm nóng trước** bình thủy tinh.  
+4. **Thời gian** là yếu tố then chốt – hãy kiểm soát thật chuẩn.
+
+---
+
+Đặc điểm nổi bật nhất của Chemex là **vòng cổ bằng gỗ cách nhiệt** quấn quanh phần cổ bình, giúp bạn có thể cầm và rót nước dễ dàng ngay cả khi bình còn nóng.  
+Phần gỗ này được tiện thủ công, chia làm hai mảnh để ôm lấy cổ bình, và được cố định bằng một **dây da buộc nhẹ** — không quá chặt, tạo cảm giác mộc mạc tự nhiên.
+
+Sự kết hợp giữa **thủy tinh phòng thí nghiệm**, **gỗ tự nhiên** và **dây da thủ công** tạo nên nét độc đáo cho Chemex: vừa mang hơi hướng hiện đại, vừa giữ được tinh thần truyền thống của nghệ thuật pha cà phê thủ công.
