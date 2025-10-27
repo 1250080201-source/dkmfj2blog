@@ -9,9 +9,22 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [params]
 images = ["img/og-image.jpg"]
 enableRobotsTXT = true
-    [params.social]
+
+# 🔍 Thông tin SEO toàn trang
+description = "Cà phê Kaldi - Thưởng thức cà phê nguyên chất, rang xay thủ công và ủng hộ nông nghiệp bền vững. Nơi hạt cà phê được kể câu chuyện của chính mình."
+keywords = [
+  "cà phê Kaldi",
+  "cà phê sạch",
+  "cà phê rang xay thủ công",
+  "cà phê nguyên chất",
+  "cà phê bền vững",
+  "hạt cà phê Việt Nam",
+  "cà phê đặc sản",
+  "quán cà phê Kaldi"
+]
+
+  [params.social]
   facebook = "https://facebook.com"
   instagram = "https://instagram.com"
   twitter = "https://twitter.com"
   linkedin = "https://linkedin.com"
-
