@@ -2,17 +2,17 @@
 title: "Giá trị của chúng tôi"
 description: "Khám phá những giá trị cốt lõi của Kaldi Coffee — từ canh tác bền vững, nguồn gốc đơn, hợp tác trực tiếp với nông dân đến cam kết tái đầu tư vào cộng đồng địa phương."
 image: /img/about-jumbotron.jpg
-keywords:
--"cà phê"
--"cà phê Kaldi"
--"cà phê sạch"
--"canh tác bền vững"
--"nguồn gốc đơn"
--"cà phê Việt Nam"
--"Kaldi Coffee"
--"cà phê chất lượng cao"
--"cà phê rang xay"
--"văn hóa cà phê"
+keywords :
+ -"cà phê"
+ -"cà phê Kaldi"
+ -"cà phê sạch"
+ -"canh tác bền vững"
+ -"nguồn gốc đơn"
+ -"cà phê Việt Nam"
+ -"Kaldi Coffee"
+ -"cà phê chất lượng cao"
+ -"cà phê rang xay"
+ -"văn hóa cà phê"
 
 values:
   - heading: "Cà phê trồng dưới bóng râm"
