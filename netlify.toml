@@ -8,7 +8,11 @@
 [build]
   command = "yarn build"
   publish = "dist"
-  base = "site" # 👈 thêm dòng này để Netlify build trong thư mục 'site'
+ 
+
+  command = "npm install rimraf && yarn build"
+  publish = "site/dist"
+  base = "site"
 
 # Cấu hình khi deploy preview
 [context.deploy-preview]
