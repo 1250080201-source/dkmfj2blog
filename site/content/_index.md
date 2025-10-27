@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Cà phê tuyệt hảo với tâm hồn nhân ái"
+subtitle: "Ủng hộ nông nghiệp bền vững trong từng tách cà phê"
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: "Vì sao chọn Kaldi?"
+    text: "Kaldi là thương hiệu cà phê dành cho những ai tin rằng cà phê ngon không chỉ cần hương vị tuyệt vời mà còn phải mang lại giá trị tốt đẹp cho cộng đồng. Chúng tôi thu mua hạt cà phê trực tiếp từ các nông hộ nhỏ, canh tác bền vững, và đảm bảo một phần lợi nhuận được tái đầu tư để phát triển chính cộng đồng đó."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Chúng tôi mang đến điều gì"
+    text: "Kaldi là điểm đến lý tưởng cho những người yêu cà phê muốn tìm hiểu về nguồn gốc ly cà phê của mình và ủng hộ người nông dân trồng nên nó. Chúng tôi trân trọng từng công đoạn — từ canh tác, rang xay đến pha chế — và sẵn sàng chia sẻ niềm đam mê ấy đến mọi khách hàng."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Chúng tôi cung cấp hạt cà phê nhân xanh và cà phê rang xay được thu mua trực tiếp từ các nông hộ độc lập và hợp tác xã nông nghiệp. Kaldi tự hào mang đến nhiều loại cà phê được trồng với sự trân trọng môi trường và cộng đồng địa phương. Hãy xem các bài viết mới nhất hoặc liên hệ với chúng tôi để biết thêm chi tiết về các loại cà phê hiện có."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Chúng tôi còn mang đến bộ sưu tập dụng cụ pha chế được chọn lọc kỹ lưỡng, phù hợp cho mọi gu thưởng thức và cấp độ kinh nghiệm. Dù bạn là người tự rang hạt tại nhà hay vừa mua chiếc French Press đầu tiên, chắc chắn bạn sẽ tìm thấy dụng cụ yêu thích tại cửa hàng Kaldi."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: "Giá trị của chúng tôi"
+    text: "Cà phê là một phần tuyệt vời trong văn hóa nhân loại — nhưng cũng mang trong mình mặt tối của chủ nghĩa thực dân và sự khai thác thiên nhiên vô độ. Kaldi mong muốn thay đổi điều đó, đưa thương mại cà phê trở lại đúng với bản chất đáng tự hào của nó: thức uống gắn kết, truyền cảm hứng và tôn vinh con người."
 ---
-
