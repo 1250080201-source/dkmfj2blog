@@ -8,7 +8,7 @@
 [build]
   base = "site"
   command = "npm install rimraf && yarn build"
-  publish = "site/dist"
+  publish = "dist"
 
 # Cấu hình khi deploy preview
 [context.deploy-preview]
