@@ -9,3 +9,9 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [params]
 images = ["img/og-image.jpg"]
 enableRobotsTXT = true
+    [params.social]
+  facebook = "https://facebook.com/ten_trang_cua_ban"
+  instagram = "https://instagram.com/ten_trang_cua_ban"
+  twitter = "https://twitter.com/ten_trang_cua_ban"
+  linkedin = "https://linkedin.com/in/ten_trang_cua_ban"
+
