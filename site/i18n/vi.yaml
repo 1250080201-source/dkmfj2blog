@@ -1,0 +1,24 @@
+# /i18n/vi.yaml
+
+home:
+  other: "Trang chủ"
+about:
+  other: "Giới thiệu"
+contact:
+  other: "Liên hệ"
+read_more:
+  other: "Đọc thêm"
+recent_posts:
+  other: "Bài viết mới"
+categories:
+  other: "Danh mục"
+tags:
+  other: "Thẻ"
+search:
+  other: "Tìm kiếm"
+by:
+  other: "bởi"
+minutes_read:
+  other: "phút đọc"
+published_on:
+  other: "Đăng ngày"
