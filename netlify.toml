@@ -6,13 +6,9 @@
 
 # Lệnh build chính và thư mục output
 [build]
-  command = "yarn build"
-  publish = "dist"
- 
-
+  base = "site"
   command = "npm install rimraf && yarn build"
   publish = "site/dist"
-  base = "site"
 
 # Cấu hình khi deploy preview
 [context.deploy-preview]
