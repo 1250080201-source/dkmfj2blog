@@ -1,34 +1,47 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict 
-    "imageUrl" .Params.image 
-    "title" .Title 
-) }}
+  {{ partial "jumbotron" (dict 
+      "imageUrl" .Params.image 
+      "title" "Sản phẩm của chúng tôi" 
+      "subtitle" "Những dòng cà phê tuyệt hảo từ Kaldi"
+  ) }}
 
-{{ partial "4-up" .Params.intro }}
-
-{{ with .Params.main }}
-<div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
+  {{ with .Content }}
+  <div class="mw7 center ph3 pv4 cms">
+    {{ . }}
   </div>
-</div>
-
-<!-- Lưới hình ảnh -->
-{{ partial "image-grid" . }}
-{{ end }}
-
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
   {{ end }}
-</div>
 
-<!-- Ảnh toàn chiều rộng -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+  {{ with .Params.intro }}
+  {{ partial "4-up" . }}
+  {{ end }}
 
-<!-- Bảng giá -->
-{{ partial "table" .Params.pricing }}
+  {{ with .Params.main }}
+  <div class="mw7 center">
+    <div class="mw6 ph3 mb3">
+      <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+      <p>{{ .description }}</p>
+    </div>
+  </div>
+
+  <!-- Lưới hình ảnh -->
+  {{ partial "image-grid" . }}
+  {{ end }}
+
+  {{ with .Params.testimonials }}
+  <div class="pb4">
+    {{ range . }}
+      {{ partial "blockquote" . }}
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ with .Params.full_image }}
+  <img src="{{ . }}" alt="Hình ảnh sản phẩm Kaldi" class="db w-100">
+  {{ end }}
+
+  {{ with .Params.pricing }}
+  {{ partial "table" . }}
+  {{ end }}
 
 {{ end }}
