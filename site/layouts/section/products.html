@@ -1,9 +1,11 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "jumbotron" (dict 
+    "imageUrl" .Params.image 
+    "title" .Title 
+) }}
 
 {{ partial "4-up" .Params.intro }}
-
 
 {{ with .Params.main }}
 <div class="mw7 center">
@@ -13,7 +15,7 @@
   </div>
 </div>
 
-<!-- Image grid -->
+<!-- Lưới hình ảnh -->
 {{ partial "image-grid" . }}
 {{ end }}
 
@@ -23,9 +25,10 @@
   {{ end }}
 </div>
 
-<!-- Full-width image -->
+<!-- Ảnh toàn chiều rộng -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
+<!-- Bảng giá -->
 {{ partial "table" .Params.pricing }}
 
 {{ end }}
