@@ -22,3 +22,5 @@ minutes_read:
   other: "phút đọc"
 published_on:
   other: "Đăng ngày"
+[latest_stories]
+other = "Latest stories"
