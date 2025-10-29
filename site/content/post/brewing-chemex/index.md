@@ -17,7 +17,7 @@ keywords:
 Tuần này, chúng ta sẽ **tìm hiểu** tất cả các bước cần thiết để pha được một ly cà phê tuyệt vời bằng **Chemex** ngay tại nhà.  
 Chemex là một dụng cụ pha cà phê thủ công theo phương pháp *pour-over*, được sáng chế bởi **Peter Schlumbohm** vào năm 1941, và đến nay vẫn được sản xuất bởi **Chemex Corporation** tại **Chicopee, Massachusetts**.
 
-Năm 1958, các nhà thiết kế tại [Viện Công nghệ Illinois](https://www.spacefarm.digital) đã nhận định rằng Chemex là *“một trong những sản phẩm được thiết kế tốt nhất của thời hiện đại”*, và hiện đang được trưng bày trong bộ sưu tập của **Bảo tàng Nghệ thuật Hiện đại (MoMA)** tại thành phố New York.
+Năm 1958, các nhà thiết kế tại [Viện Công nghệ Illinois](https://fi.wikipedia.org/wiki/Illinois_Institute_of_Technology) đã nhận định rằng Chemex là *“một trong những sản phẩm được thiết kế tốt nhất của thời hiện đại”*, và hiện đang được trưng bày trong bộ sưu tập của **Bảo tàng Nghệ thuật Hiện đại (MoMA)** tại thành phố New York.
 
 ---
 
