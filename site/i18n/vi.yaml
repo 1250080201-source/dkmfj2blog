@@ -1,5 +1,3 @@
-# /i18n/vi.yaml
-
 home:
   other: "Trang chủ"
 about:
@@ -22,5 +20,5 @@ minutes_read:
   other: "phút đọc"
 published_on:
   other: "Đăng ngày"
-[latest_stories]
-other = "Latest stories"
+latest_stories:
+  other: "Bài viết mới nhất"
