@@ -3,14 +3,14 @@
 {{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
 
 <div class="mw7 center">
-  <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <li class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
+  <ol id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3 list pl0" style="list-style-position: inside;">
+      {{ range (.Paginator 6).Pages.ByPublishDate.Reverse }}
+          <li class="w-50-ns ph1-ns flex mb3">
+            {{ .Render "li" }}
           </li>
       {{ end }}
-  </ul>
+  </ol>
   {{ partial "pagination" . }}
 </div>
 
-{{end}}
+{{ end }}
